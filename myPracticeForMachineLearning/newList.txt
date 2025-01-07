@@ -3,3 +3,6 @@ This is the new file
 
 Second message was added 
 "Second Commit" 
+
+Third message was added 
+"Third commit"

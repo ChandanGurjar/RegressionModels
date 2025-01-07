@@ -6,3 +6,6 @@ Second message was added
 
 Third message was added 
 "Third commit"
+
+Fourth message was added
+"Fourth commit made"

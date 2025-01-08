@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Fruits 
 "Apple"
 "Oranges"
+=======
+dairy added 
+Milk 
+Paneer 
+Butter
+Curd
+>>>>>>> newBranch
